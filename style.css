@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 .Color {
     color: orange;
 }
@@ -41,6 +45,7 @@ p {
 .top-banner {
     background-image: url(images/Top\ Banner.png);
     background-repeat: no-repeat;
+    background-size: 800px;
 }
 
 .button {
@@ -56,4 +61,25 @@ p {
     background-image: url(images/header_bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.xp-item {
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 10px
+}
+
+.xp {
+    background-image: url(images/xpbg.png);
+    background-position: left;
+    background-size: 800px;
+    background-repeat: no-repeat;
 }
