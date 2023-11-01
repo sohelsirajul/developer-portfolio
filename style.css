@@ -83,3 +83,15 @@ p {
     background-size: 800px;
     background-repeat: no-repeat;
 }
+
+#ASM {
+    border-left: 7px solid tomato;
+}
+
+#twd {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
